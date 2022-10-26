@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ApartmentAdminApp","l":"AdminAppMain"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"ApartmentAdminApp","l":"AppFeatures"},{"p":"ApartmentAdminApp","l":"Members"},{"p":"ApartmentAdminApp","l":"MyApartment"},{"p":"ApartmentAdminApp","l":"Resident"},{"p":"ApartmentAdminApp","l":"Staff"}]
